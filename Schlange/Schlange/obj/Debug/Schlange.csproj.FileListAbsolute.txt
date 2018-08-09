@@ -1,0 +1,10 @@
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\bin\Debug\Schlange.exe.config
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\bin\Debug\Schlange.exe
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\bin\Debug\Schlange.pdb
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\obj\Debug\Schlange.Form1.resources
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\obj\Debug\Schlange.Properties.Resources.resources
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\obj\Debug\Schlange.csproj.GenerateResource.Cache
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\obj\Debug\Schlange.exe
+c:\users\n.meassar\documents\visual studio 2015\Projects\Schlange\Schlange\obj\Debug\Schlange.pdb
+C:\Users\n.meassar\Documents\Visual Studio 2015\Projects\Schlange\Schlange\obj\Debug\Schlange.csprojAssemblyReference.cache
+C:\Users\n.meassar\Documents\Visual Studio 2015\Projects\Schlange\Schlange\obj\Debug\Schlange.csproj.CoreCompileInputs.cache
